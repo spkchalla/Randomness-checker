@@ -1,0 +1,65 @@
+File: ../os/chi/chi_run101.txt
+Chi-Square Statistic = 83.96
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run202.txt
+Chi-Square Statistic = 110.96
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run303.txt
+Chi-Square Statistic = 105.48
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run404.txt
+Chi-Square Statistic = 114.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run505.txt
+Chi-Square Statistic = 108.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run606.txt
+Chi-Square Statistic = 98.4
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run707.txt
+Chi-Square Statistic = 97.28
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run808.txt
+Chi-Square Statistic = 105.36
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run909.txt
+Chi-Square Statistic = 108.88
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run1001.txt
+Chi-Square Statistic = 114.56
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run1101.txt
+Chi-Square Statistic = 79.08
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run1201.txt
+Chi-Square Statistic = 110.04
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run1301.txt
+Chi-Square Statistic = 95.88
+Confidence Level = 0.99
+Conclusion = Random
+

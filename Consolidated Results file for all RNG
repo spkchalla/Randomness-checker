@@ -1,0 +1,836 @@
+// Os chi .95
+
+File: ../os/chi/chi_run101.txt
+Chi-Square Statistic = 83.96
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run202.txt
+Chi-Square Statistic = 110.96
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run303.txt
+Chi-Square Statistic = 105.48
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run404.txt
+Chi-Square Statistic = 114.32
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run505.txt
+Chi-Square Statistic = 108.32
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run606.txt
+Chi-Square Statistic = 98.4
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run707.txt
+Chi-Square Statistic = 97.28
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run808.txt
+Chi-Square Statistic = 105.36
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run909.txt
+Chi-Square Statistic = 108.88
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run1001.txt
+Chi-Square Statistic = 114.56
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run1101.txt
+Chi-Square Statistic = 79.08
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run1201.txt
+Chi-Square Statistic = 110.04
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/chi/chi_run1301.txt
+Chi-Square Statistic = 95.88
+Confidence Level = 0.95
+Conclusion = Random
+
+//end
+
+
+// os chi .99
+
+File: ../os/chi/chi_run101.txt
+Chi-Square Statistic = 83.96
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run202.txt
+Chi-Square Statistic = 110.96
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run303.txt
+Chi-Square Statistic = 105.48
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run404.txt
+Chi-Square Statistic = 114.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run505.txt
+Chi-Square Statistic = 108.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run606.txt
+Chi-Square Statistic = 98.4
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run707.txt
+Chi-Square Statistic = 97.28
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run808.txt
+Chi-Square Statistic = 105.36
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run909.txt
+Chi-Square Statistic = 108.88
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run1001.txt
+Chi-Square Statistic = 114.56
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run1101.txt
+Chi-Square Statistic = 79.08
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run1201.txt
+Chi-Square Statistic = 110.04
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/chi/chi_run1301.txt
+Chi-Square Statistic = 95.88
+Confidence Level = 0.99
+Conclusion = Random
+
+// end
+
+// os ks .95
+
+File: ../os/ks/ks_run101.txt
+KS Statistic = 0.144246
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run202.txt
+KS Statistic = 0.094137
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run303.txt
+KS Statistic = 0.127397
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run404.txt
+KS Statistic = 0.118131
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run505.txt
+KS Statistic = 0.208658
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run606.txt
+KS Statistic = 0.154032
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run707.txt
+KS Statistic = 0.182044
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run808.txt
+KS Statistic = 0.169871
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run909.txt
+KS Statistic = 0.123953
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run1001.txt
+KS Statistic = 0.158085
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run1101.txt
+KS Statistic = 0.18619
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run1201.txt
+KS Statistic = 0.165444
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../os/ks/ks_run1301.txt
+KS Statistic = 0.125714
+Confidence Level = 0.95
+Conclusion = Random
+
+// end
+
+// os ks 0.99
+
+File: ../os/ks/ks_run101.txt
+KS Statistic = 0.144246
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run202.txt
+KS Statistic = 0.094137
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run303.txt
+KS Statistic = 0.127397
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run404.txt
+KS Statistic = 0.118131
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run505.txt
+KS Statistic = 0.208658
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run606.txt
+KS Statistic = 0.154032
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run707.txt
+KS Statistic = 0.182044
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run808.txt
+KS Statistic = 0.169871
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run909.txt
+KS Statistic = 0.123953
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run1001.txt
+KS Statistic = 0.158085
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run1101.txt
+KS Statistic = 0.18619
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run1201.txt
+KS Statistic = 0.165444
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run1301.txt
+KS Statistic = 0.125714
+Confidence Level = 0.99
+Conclusion = Random
+
+// end
+
+//java chi .95
+
+File: ../java/chi/chi_run101.txt
+Chi-Square Statistic = 96.88
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run202.txt
+Chi-Square Statistic = 94.52
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run303.txt
+Chi-Square Statistic = 101.32
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run404.txt
+Chi-Square Statistic = 90.52
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run505.txt
+Chi-Square Statistic = 111.08
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run606.txt
+Chi-Square Statistic = 96.36
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run707.txt
+Chi-Square Statistic = 100.72
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run808.txt
+Chi-Square Statistic = 85.56
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run909.txt
+Chi-Square Statistic = 92.32
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run1001.txt
+Chi-Square Statistic = 90.28
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run1101.txt
+Chi-Square Statistic = 102.8
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run1201.txt
+Chi-Square Statistic = 100.56
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/chi/chi_run1301.txt
+Chi-Square Statistic = 110.2
+Confidence Level = 0.95
+Conclusion = Random
+
+// end
+
+
+// java chi .99
+
+File: ../java/chi/chi_run101.txt
+Chi-Square Statistic = 96.88
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run202.txt
+Chi-Square Statistic = 94.52
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run303.txt
+Chi-Square Statistic = 101.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run404.txt
+Chi-Square Statistic = 90.52
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run505.txt
+Chi-Square Statistic = 111.08
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run606.txt
+Chi-Square Statistic = 96.36
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run707.txt
+Chi-Square Statistic = 100.72
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run808.txt
+Chi-Square Statistic = 85.56
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run909.txt
+Chi-Square Statistic = 92.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run1001.txt
+Chi-Square Statistic = 90.28
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run1101.txt
+Chi-Square Statistic = 102.8
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run1201.txt
+Chi-Square Statistic = 100.56
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run1301.txt
+Chi-Square Statistic = 110.2
+Confidence Level = 0.99
+Conclusion = Random
+
+//end
+
+
+// java ks 0.95
+
+
+File: ../java/ks/ks_run101.txt
+KS Statistic = 0.114123
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run202.txt
+KS Statistic = 0.128245
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run303.txt
+KS Statistic = 0.132483
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run404.txt
+KS Statistic = 0.25427
+Confidence Level = 0.95
+Conclusion = Not Random
+
+File: ../java/ks/ks_run505.txt
+KS Statistic = 0.171923
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run606.txt
+KS Statistic = 0.184267
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run707.txt
+KS Statistic = 0.17539
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run808.txt
+KS Statistic = 0.125527
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run909.txt
+KS Statistic = 0.0639099
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run1001.txt
+KS Statistic = 0.160255
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run1101.txt
+KS Statistic = 0.100995
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../java/ks/ks_run1201.txt
+KS Statistic = 0.269954
+Confidence Level = 0.95
+Conclusion = Not Random
+
+File: ../java/ks/ks_run1301.txt
+KS Statistic = 0.176751
+Confidence Level = 0.95
+Conclusion = Random
+
+// end
+
+
+// java ks .99
+
+
+File: ../java/ks/ks_run101.txt
+KS Statistic = 0.114123
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run202.txt
+KS Statistic = 0.128245
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run303.txt
+KS Statistic = 0.132483
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run404.txt
+KS Statistic = 0.25427
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run505.txt
+KS Statistic = 0.171923
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run606.txt
+KS Statistic = 0.184267
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run707.txt
+KS Statistic = 0.17539
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run808.txt
+KS Statistic = 0.125527
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run909.txt
+KS Statistic = 0.0639099
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run1001.txt
+KS Statistic = 0.160255
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run1101.txt
+KS Statistic = 0.100995
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run1201.txt
+KS Statistic = 0.269954
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run1301.txt
+KS Statistic = 0.176751
+Confidence Level = 0.99
+Conclusion = Random
+
+// end
+
+
+// python chi .95
+
+
+File: ../python/chi/chi_run101.txt
+Chi-Square Statistic = 119.84
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run202.txt
+Chi-Square Statistic = 110.72
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run303.txt
+Chi-Square Statistic = 94.2
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run404.txt
+Chi-Square Statistic = 92
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run505.txt
+Chi-Square Statistic = 92.8
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run606.txt
+Chi-Square Statistic = 87.24
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run707.txt
+Chi-Square Statistic = 83.88
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run808.txt
+Chi-Square Statistic = 112.8
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run909.txt
+Chi-Square Statistic = 81.32
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run1001.txt
+Chi-Square Statistic = 90.36
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run1101.txt
+Chi-Square Statistic = 101.56
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run1201.txt
+Chi-Square Statistic = 117.24
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/chi/chi_run1301.txt
+Chi-Square Statistic = 113.08
+Confidence Level = 0.95
+Conclusion = Random
+
+//end
+
+//python chi .99
+
+
+File: ../python/chi/chi_run101.txt
+Chi-Square Statistic = 119.84
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run202.txt
+Chi-Square Statistic = 110.72
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run303.txt
+Chi-Square Statistic = 94.2
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run404.txt
+Chi-Square Statistic = 92
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run505.txt
+Chi-Square Statistic = 92.8
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run606.txt
+Chi-Square Statistic = 87.24
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run707.txt
+Chi-Square Statistic = 83.88
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run808.txt
+Chi-Square Statistic = 112.8
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run909.txt
+Chi-Square Statistic = 81.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run1001.txt
+Chi-Square Statistic = 90.36
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run1101.txt
+Chi-Square Statistic = 101.56
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run1201.txt
+Chi-Square Statistic = 117.24
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run1301.txt
+Chi-Square Statistic = 113.08
+Confidence Level = 0.99
+Conclusion = Random
+
+// end
+
+// python ks 0.95
+
+
+File: ../python/ks/ks_run101.txt
+KS Statistic = 0.128318
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run202.txt
+KS Statistic = 0.0842081
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run303.txt
+KS Statistic = 0.12302
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run404.txt
+KS Statistic = 0.203249
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run505.txt
+KS Statistic = 0.301652
+Confidence Level = 0.95
+Conclusion = Not Random
+
+File: ../python/ks/ks_run606.txt
+KS Statistic = 0.13641
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run707.txt
+KS Statistic = 0.177517
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run808.txt
+KS Statistic = 0.0945268
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run909.txt
+KS Statistic = 0.135888
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run1001.txt
+KS Statistic = 0.207793
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run1101.txt
+KS Statistic = 0.146341
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run1201.txt
+KS Statistic = 0.111721
+Confidence Level = 0.95
+Conclusion = Random
+
+File: ../python/ks/ks_run1301.txt
+KS Statistic = 0.170265
+Confidence Level = 0.95
+Conclusion = Random
+
+// end
+
+// python ks 0.99
+
+File: ../python/ks/ks_run101.txt
+KS Statistic = 0.128318
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run202.txt
+KS Statistic = 0.0842081
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run303.txt
+KS Statistic = 0.12302
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run404.txt
+KS Statistic = 0.203249
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run505.txt
+KS Statistic = 0.301652
+Confidence Level = 0.99
+Conclusion = Not Random
+
+File: ../python/ks/ks_run606.txt
+KS Statistic = 0.13641
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run707.txt
+KS Statistic = 0.177517
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run808.txt
+KS Statistic = 0.0945268
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run909.txt
+KS Statistic = 0.135888
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run1001.txt
+KS Statistic = 0.207793
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run1101.txt
+KS Statistic = 0.146341
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run1201.txt
+KS Statistic = 0.111721
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run1301.txt
+KS Statistic = 0.170265
+Confidence Level = 0.99
+Conclusion = Random
+

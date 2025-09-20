@@ -1,0 +1,65 @@
+File: ../os/ks/ks_run101.txt
+KS Statistic = 0.144246
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run202.txt
+KS Statistic = 0.094137
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run303.txt
+KS Statistic = 0.127397
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run404.txt
+KS Statistic = 0.118131
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run505.txt
+KS Statistic = 0.208658
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run606.txt
+KS Statistic = 0.154032
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run707.txt
+KS Statistic = 0.182044
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run808.txt
+KS Statistic = 0.169871
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run909.txt
+KS Statistic = 0.123953
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run1001.txt
+KS Statistic = 0.158085
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run1101.txt
+KS Statistic = 0.18619
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run1201.txt
+KS Statistic = 0.165444
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../os/ks/ks_run1301.txt
+KS Statistic = 0.125714
+Confidence Level = 0.99
+Conclusion = Random
+

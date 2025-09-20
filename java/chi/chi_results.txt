@@ -1,0 +1,65 @@
+File: ../java/chi/chi_run101.txt
+Chi-Square Statistic = 96.88
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run202.txt
+Chi-Square Statistic = 94.52
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run303.txt
+Chi-Square Statistic = 101.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run404.txt
+Chi-Square Statistic = 90.52
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run505.txt
+Chi-Square Statistic = 111.08
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run606.txt
+Chi-Square Statistic = 96.36
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run707.txt
+Chi-Square Statistic = 100.72
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run808.txt
+Chi-Square Statistic = 85.56
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run909.txt
+Chi-Square Statistic = 92.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run1001.txt
+Chi-Square Statistic = 90.28
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run1101.txt
+Chi-Square Statistic = 102.8
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run1201.txt
+Chi-Square Statistic = 100.56
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/chi/chi_run1301.txt
+Chi-Square Statistic = 110.2
+Confidence Level = 0.99
+Conclusion = Random
+

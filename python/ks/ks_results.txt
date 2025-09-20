@@ -1,0 +1,65 @@
+File: ../python/ks/ks_run101.txt
+KS Statistic = 0.128318
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run202.txt
+KS Statistic = 0.0842081
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run303.txt
+KS Statistic = 0.12302
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run404.txt
+KS Statistic = 0.203249
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run505.txt
+KS Statistic = 0.301652
+Confidence Level = 0.99
+Conclusion = Not Random
+
+File: ../python/ks/ks_run606.txt
+KS Statistic = 0.13641
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run707.txt
+KS Statistic = 0.177517
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run808.txt
+KS Statistic = 0.0945268
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run909.txt
+KS Statistic = 0.135888
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run1001.txt
+KS Statistic = 0.207793
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run1101.txt
+KS Statistic = 0.146341
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run1201.txt
+KS Statistic = 0.111721
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/ks/ks_run1301.txt
+KS Statistic = 0.170265
+Confidence Level = 0.99
+Conclusion = Random
+

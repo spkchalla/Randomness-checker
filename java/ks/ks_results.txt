@@ -1,0 +1,65 @@
+File: ../java/ks/ks_run101.txt
+KS Statistic = 0.114123
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run202.txt
+KS Statistic = 0.128245
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run303.txt
+KS Statistic = 0.132483
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run404.txt
+KS Statistic = 0.25427
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run505.txt
+KS Statistic = 0.171923
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run606.txt
+KS Statistic = 0.184267
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run707.txt
+KS Statistic = 0.17539
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run808.txt
+KS Statistic = 0.125527
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run909.txt
+KS Statistic = 0.0639099
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run1001.txt
+KS Statistic = 0.160255
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run1101.txt
+KS Statistic = 0.100995
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run1201.txt
+KS Statistic = 0.269954
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../java/ks/ks_run1301.txt
+KS Statistic = 0.176751
+Confidence Level = 0.99
+Conclusion = Random
+

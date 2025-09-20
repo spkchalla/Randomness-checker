@@ -1,0 +1,65 @@
+File: ../python/chi/chi_run101.txt
+Chi-Square Statistic = 119.84
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run202.txt
+Chi-Square Statistic = 110.72
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run303.txt
+Chi-Square Statistic = 94.2
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run404.txt
+Chi-Square Statistic = 92
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run505.txt
+Chi-Square Statistic = 92.8
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run606.txt
+Chi-Square Statistic = 87.24
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run707.txt
+Chi-Square Statistic = 83.88
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run808.txt
+Chi-Square Statistic = 112.8
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run909.txt
+Chi-Square Statistic = 81.32
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run1001.txt
+Chi-Square Statistic = 90.36
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run1101.txt
+Chi-Square Statistic = 101.56
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run1201.txt
+Chi-Square Statistic = 117.24
+Confidence Level = 0.99
+Conclusion = Random
+
+File: ../python/chi/chi_run1301.txt
+Chi-Square Statistic = 113.08
+Confidence Level = 0.99
+Conclusion = Random
+
